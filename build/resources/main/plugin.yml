@@ -1,0 +1,4 @@
+name: TimeStop
+version: 1.0
+main: org.dbenton.timestop.TimeStop
+api-version: 1.21
