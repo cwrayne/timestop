@@ -11,4 +11,4 @@ Open Command Prompt/Terminal and run:
 ```
 gradlew clean build
 ```
-Then in timestop/build/libs you will find Timestop-<version>.jar
+Then in timestop/build/libs you will find Timestop-[version].jar
